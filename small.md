@@ -8,4 +8,4 @@ menus:
     weight: 3
 layout: page
 ---
-![]()
+![foxy`](/images/10.jpg "sponsors friends")
