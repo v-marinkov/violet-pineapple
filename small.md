@@ -5,7 +5,7 @@ img_path: /images/7.jpg
 menus:
   main:
     title: very small
-    weight: -10
+    weight: 3
 layout: page
 ---
 ![]()
